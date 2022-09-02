@@ -1,4 +1,4 @@
-# k8s-linkerd-terraform
+# terraform-aws-eks-linkerd
 
 Ultra light, ultra simple, ultra powerful. Linkerd adds security, observability, and reliability to Kubernetes, without the complexity. CNCF-hosted and 100% open source.
 
